@@ -136,7 +136,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/uber-uns/", "Über uns"),
+        ("/ueber-uns/", "Über uns"),
         ("/downloads/Mitgliedsantrag.pdf", "Mitglied werden"),
         ("/ressourcen/", "Ressourcen"),
         ("/rechtliches/", "Rechtliches"),
