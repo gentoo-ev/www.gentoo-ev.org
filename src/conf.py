@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
+import os
 import time
 
 # !! This is the configuration of Nikola. !! #
@@ -135,9 +136,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archiv"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS-Feed"),
+        ("/uber-uns/", "Über uns"),
+        ("/downloads/Mitgliedsantrag.pdf", "Mitglied werden"),
+        ("/ressourcen/", "Ressourcen"),
+        ("/rechtliches/", "Rechtliches"),
+        ("/kontakt/", "Kontakt"),
     ),
 }
 
@@ -183,16 +186,16 @@ THEME_COLOR = '#5670d4'
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "news", "post.tmpl"),
+    ("posts/*.md", "news", "post.tmpl"),
+    ("posts/*.txt", "news", "post.tmpl"),
+    ("posts/*.html", "news", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 
@@ -554,8 +557,10 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
+_FRONT_INDEX_HEADER_FILE = os.path.join(os.path.dirname(__file__),
+                                        'front_index_header.html')
 FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
+    DEFAULT_LANG: open(_FRONT_INDEX_HEADER_FILE, 'r').read().decode('UTF-8'),
 }
 
 # Create per-month archives instead of per-year
@@ -1123,7 +1128,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
@@ -1299,7 +1304,7 @@ UNSLUGIFY_TITLES = True
 # USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
-# DISABLED_PLUGINS = ["render_galleries"]
+DISABLED_PLUGINS = ["render_galleries"]
 
 # Special settings to disable only parts of the indexes plugin (to allow RSS
 # but no blog indexes, or to allow blog indexes and Atom but no site-wide RSS).
