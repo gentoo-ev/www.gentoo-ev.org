@@ -1,16 +1,15 @@
 [Theme]
 engine = mako
 parent = base
-author = The Nikola Contributors
-author_url = https://getnikola.com/
-based_on = Bootstrap 3 <https://getbootstrap.com/>
+author = Förderverrein Gentoo e.V.
+author_url = https://gentoo-ev.org/
+based_on = bootstrap3 <https://themes.getnikola.com/v8/bootstrap3/>
 license = MIT
 tags = bootstrap
 
 [Family]
 family = bootstrap3
-jinja_version = bootstrap3-jinja
-variants = bootstrap3-gradients, bootstrap3-gradients-jinja
+variants = bootstrap3, bootstrap3-gradients, bootstrap3-gradients-jinja
 
 [Nikola]
 bootswatch = True
