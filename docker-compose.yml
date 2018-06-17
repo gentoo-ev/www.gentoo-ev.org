@@ -3,11 +3,18 @@
 
 version: "3"
 
+networks:
+  ssl-reverse-proxy:
+    external: yes
+
 services:
   gentoo-ev-org:
     build: .
     ports:
       - 127.0.0.1:50180:80
+    networks:
+      - default
+      - ssl-reverse-proxy
     volumes:
       - ./htdocs:/var/www/html/:ro
       - ./lighttpd-url-rewrites.conf:/etc/lighttpd/conf-enabled/99-url-rewrites.conf:ro
