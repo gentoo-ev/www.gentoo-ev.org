@@ -9,5 +9,5 @@ services:
     ports:
       - 127.0.0.1:50180:80
     volumes:
-      - ./:/var/www/html/:ro
+      - ./htdocs:/var/www/html/:ro
       - ./lighttpd-url-rewrites.conf:/etc/lighttpd/conf-enabled/99-url-rewrites.conf:ro

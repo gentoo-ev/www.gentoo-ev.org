@@ -2,20 +2,12 @@
 # Copyright (C) 2018 Sebastian Pipping <sebastian@pipping.org>
 # Licensed under the MIT license
 
-PAGE_FOLDERS = $(patsubst %/index.html,%/,$(wildcard */index.html))
-
-GENERATED = \
-    assets/ \
-    $(PAGE_FOLDERS) \
-\
-    '*.html' \
-    '*.xml' \
-    robots.txt
+GENERATED = htdocs
 
 .PHONY: all
 all:
 	$(MAKE) -C src
-	./optimize-png-files.sh assets/css/images/
+	./optimize-png-files.sh htdocs/assets/css/images/
 
 .PHONY: clean
 clean:
