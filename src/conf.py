@@ -560,7 +560,7 @@ HIDDEN_AUTHORS = ['Guest']
 _FRONT_INDEX_HEADER_FILE = os.path.join(os.path.dirname(__file__),
                                         'front_index_header.html')
 FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: open(_FRONT_INDEX_HEADER_FILE, 'r').read().decode('UTF-8'),
+    DEFAULT_LANG: open(_FRONT_INDEX_HEADER_FILE, 'r').read(),
 }
 
 # Create per-month archives instead of per-year
