@@ -1,0 +1,12 @@
+# Copyright (C) 2018 Sebastian Pipping <sebastian@pipping.org>
+# Licensed under the MIT license
+
+version: "3"
+
+services:
+  gentoo-ev-org:
+    build: .
+    ports:
+      - 127.0.0.1:50180:80
+    volumes:
+      - ./:/var/www/html/:ro
