@@ -18,3 +18,4 @@ services:
     volumes:
       - ./htdocs:/var/www/html/:ro
       - ./lighttpd-url-rewrites.conf:/etc/lighttpd/conf-enabled/99-url-rewrites.conf:ro
+    restart: unless-stopped
