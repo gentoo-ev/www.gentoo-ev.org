@@ -7,54 +7,62 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://gentoo-ev.org/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/2017/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/2018/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://gentoo-ev.org/2019/</loc>
+  <lastmod>2019-12-29T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/archive.html</loc>
-  <lastmod>2019-11-17T17:21:00Z</lastmod>
+  <lastmod>2019-12-29T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/categories/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/kontakt/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/events-fosdem-2009/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/events-linuxtag-2013/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/mitgliederversammlung-2017-12-29/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/mitgliederversammlung-2018-12-29/</loc>
-  <lastmod>2018-12-28T19:12:00Z</lastmod>
+  <lastmod>2019-12-29T14:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://gentoo-ev.org/news/mitgliederversammlung-2019-12-29/</loc>
+  <lastmod>2019-12-29T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/rechtliches/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/ressourcen/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/ueber-uns/</loc>
-  <lastmod>2018-06-17T11:17:00Z</lastmod>
+  <lastmod>2019-12-29T14:32:00Z</lastmod>
  </url>
 </urlset>
