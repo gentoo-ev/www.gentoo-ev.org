@@ -4,7 +4,7 @@
 
 .PHONY: all
 all:
-	nikola build
+	nikola build -a
 
 .PHONY: clean
 clean:
