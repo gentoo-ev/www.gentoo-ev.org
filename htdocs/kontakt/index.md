@@ -34,7 +34,7 @@ Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
 Amtsgericht Oberhausen unter der Vereins-Nr. VR&nbsp;1621.
 
 Seit 15. Dezember 2016 eingetragen beim **Amtsgericht (Berlin-)Charlottenburg**
-unter der Vereins-Nr. **VR&nbsp;35430 B**.
+unter der Vereins-Nr. **VR&nbsp;35430**.
 
 
 Impressum
