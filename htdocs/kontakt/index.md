@@ -13,8 +13,9 @@ Postanschrift
 =============
 <blockquote>
 Förderverein Gentoo e.V.<br />
-Oranienburger Str. 27<br />
-10117 Berlin
+c/o Ulrich Müller<br />
+Alfred-Mumbächer-Str. 67a<br />
+55128 Mainz
 </blockquote>
 
 E-Mail
@@ -34,18 +35,18 @@ Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
 Amtsgericht Oberhausen unter der Vereins-Nr. VR&nbsp;1621.
 
 Seit 15. Dezember 2016 eingetragen beim **Amtsgericht (Berlin-)Charlottenburg**
-unter der Vereins-Nr. **VR&nbsp;35430**.
+unter der Vereins-Nr. **VR&nbsp;35430&nbsp;B**.
 
 
 Impressum
 =========
 Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
 
-**Sebastian Pipping**<br />
+**Ulrich Müller**<br />
 1. Vorsitzender
 
-**Martin Schick**<br />
+**Jonas Stein**<br />
 2. Vorsitzender
 
-**Benedikt Böhm**<br />
+**Thomas Deutschmann**<br />
 Schatzmeister
