@@ -44,7 +44,7 @@ Logos
 =====
 
 Logos finden sich auf der Gentoo-Hauptseite unter
-[https://www.gentoo.org/main/en/graphics.xml](https://www.gentoo.org/main/en/graphics.xml).
+[https://www.gentoo.org/inside-gentoo/artwork/gentoo-logo.html](https://www.gentoo.org/inside-gentoo/artwork/gentoo-logo.html).
 
 Das Logo des Förderverein&nbsp;Gentoo&nbsp;e.V. ist auf Anfrage bei
 [www@gentoo-ev.org](mailto:www@gentoo-ev.org) erhältlich.

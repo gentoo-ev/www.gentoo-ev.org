@@ -26,7 +26,7 @@ Bankverbindung
 ==============
 <blockquote>
 IBAN: DE18 3704 0044 0373 2666 00<br />
-BIC: COBADEFFXXX (Commerzbank Pulheim)
+BIC: COBADEFFXXX (Commerzbank Köln)
 </blockquote>
 
 Vereinsregistereintrag
