@@ -1,18 +1,13 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="de">
+<html lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Über uns | Förderverein Gentoo e.V.</title>
-<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/html4css1.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/nikola_rst.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/colorbox.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="de" href="../rss.xml">
 <link rel="canonical" href="https://gentoo-ev.org/ueber-uns/">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Förderverein Gentoo e.V.">
 <meta property="og:site_name" content="Förderverein Gentoo e.V.">
@@ -67,7 +62,13 @@ Vorstellung des Gentoo Linux Projekts durch öffentlich">
                 
             </li>
 </ul>
-<ul class="nav navbar-nav navbar-right"></ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+    <a href="index.md" id="sourcelink">Source</a>
+    </li>
+
+                
+            </ul>
 </div>
 <!-- /.navbar-collapse -->
     </div>
@@ -168,9 +169,15 @@ als weiterer Kassenprüfer wurde Patrick Lauer gewählt.</p>
 </div>
 
 
-            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/moment-with-locales.min.js"></script><script src="../assets/js/fancydates.js"></script><script src="../assets/js/jquery.colorbox-min.js"></script><script src="../assets/js/colorbox-i18n/jquery.colorbox-de.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+            <script src="../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
     moment.locale("de");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
 </body>
 </html>
