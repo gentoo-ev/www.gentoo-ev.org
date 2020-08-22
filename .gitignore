@@ -1,0 +1,5 @@
+# ignore html output
+htdocs
+
+# ignore build cache
+src/cache
