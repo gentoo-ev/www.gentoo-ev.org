@@ -3,3 +3,6 @@ htdocs
 
 # ignore build cache
 src/cache
+
+# ignore pycache
+__pycache__
