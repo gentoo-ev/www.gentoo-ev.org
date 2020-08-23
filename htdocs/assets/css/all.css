@@ -858,6 +858,7 @@ article.post-micro {
 
 .navbar-inverse {
     background-color: #54487A;
+    background-image: none;
 }
 
 .navbar-inverse .navbar-brand {
