@@ -853,3 +853,24 @@ article.post-micro {
     }
 }
 
+
+/* BEGIN Gentoo e.V. */
+
+.navbar-inverse {
+    background-color: #54487A;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+a, a:active, a:hover, a:link, a:visited {
+    color: #54487A;
+}
+
+/* END Gentoo e.V. */
+
