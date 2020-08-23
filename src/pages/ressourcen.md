@@ -32,14 +32,6 @@ Ankündigungen des Förderverein Gentoo e.V.
 Diskussionen rund um das Vereinsleben betreffende Dinge
 
 
-Redmine
-=======
-
-Das 
-[Redmine](https://redmine.gentoo-ev.org/) wird als Ticket-Tracking und
-Planungssystem eingesetzt.
-
-
 Logos
 =====
 
