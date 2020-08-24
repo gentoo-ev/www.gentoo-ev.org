@@ -9,8 +9,8 @@
 .. type: text
 -->
 
-<a name="ziele"></a> Ziele
-==========================
+Ziele {:#ziele}
+===============
 
 Laut [unserer Satzung](/downloads/Satzung.pdf) verfolgen wir folgende Ziele:
 
@@ -28,8 +28,8 @@ Laut [unserer Satzung](/downloads/Satzung.pdf) verfolgen wir folgende Ziele:
   Gruppierungen, deren Ziele mit denen des Vereins vereinbar sind.
 
 
-<a name="gruendung"></a> Gründung
-=================================
+Gründung {:#gruendung}
+======================
 
 *Ende 2002* hatte Gentoo Linux einen relativ großen Benutzerkreis.
 Vor allem im deutschsprachigen Raum war der Zuwachs an Benutzern
