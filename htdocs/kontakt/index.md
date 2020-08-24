@@ -22,8 +22,8 @@ E-Mail
 ======
 [www@gentoo-ev.org](mailto:www@gentoo-ev.org)
 
-Bankverbindung
-==============
+Bankverbindung {:#bankverbindung}
+=================================
 <blockquote>
 IBAN: DE18 3704 0044 0373 2666 00<br />
 BIC: COBADEFFXXX (Commerzbank Köln)
@@ -38,8 +38,8 @@ Seit 15. Dezember 2016 eingetragen beim **Amtsgericht (Berlin-)Charlottenburg**
 unter der Vereins-Nr. **VR&nbsp;35430&nbsp;B**.
 
 
-Impressum
-=========
+Impressum {:#impressum}
+=======================
 Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
 
 **Ulrich Müller**<br />
