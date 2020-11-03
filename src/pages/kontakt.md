@@ -11,12 +11,10 @@
 
 Postanschrift
 =============
-<blockquote>
-Förderverein Gentoo e.V.<br />
-c/o Ulrich Müller<br />
-Alfred-Mumbächer-Str. 67a<br />
-55128 Mainz
-</blockquote>
+> Förderverein Gentoo e.V.  
+> c/o Ulrich Müller  
+> Alfred-Mumbächer-Str. 67a  
+> 55128 Mainz
 
 E-Mail
 ======
@@ -24,10 +22,8 @@ E-Mail
 
 Bankverbindung {:#bankverbindung}
 =================================
-<blockquote>
-IBAN: DE18 3704 0044 0373 2666 00<br />
-BIC: COBADEFFXXX (Commerzbank Köln)
-</blockquote>
+> IBAN: DE18 3704 0044 0373 2666 00  
+> BIC: COBADEFFXXX (Commerzbank Köln)
 
 Vereinsregistereintrag
 ======================
@@ -42,11 +38,11 @@ Impressum {:#impressum}
 =======================
 Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
 
-**Ulrich Müller**<br />
+**Ulrich Müller**  
 1. Vorsitzender
 
-**Jonas Stein**<br />
+**Jonas Stein**  
 2. Vorsitzender
 
-**Thomas Deutschmann**<br />
+**Thomas Deutschmann**  
 Schatzmeister
