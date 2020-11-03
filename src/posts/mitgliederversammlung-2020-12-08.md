@@ -15,3 +15,6 @@ am **Dienstag, den 08.12.2020**
 um **19:00 Uhr**
 als Audiokonferenz mit BigBlueButton statt.
 Adresse und Zugangsdaten wurden mit der Einladung verschickt.
+
+Wir bedanken uns beim [CCC Cologne e.V.](https://koeln.ccc.de/)
+für die Bereitstellung des BBB-Servers.
