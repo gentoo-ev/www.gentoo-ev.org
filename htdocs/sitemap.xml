@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://gentoo-ev.org/</loc>
-  <lastmod>2020-08-24T09:26:00Z</lastmod>
+  <lastmod>2020-11-03T20:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/2017/</loc>
@@ -22,8 +22,12 @@
   <lastmod>2020-08-24T09:21:00Z</lastmod>
  </url>
  <url>
+  <loc>https://gentoo-ev.org/2020/</loc>
+  <lastmod>2020-11-03T20:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://gentoo-ev.org/archive.html</loc>
-  <lastmod>2020-08-24T09:26:00Z</lastmod>
+  <lastmod>2020-11-03T20:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/categories/</loc>
@@ -31,7 +35,7 @@
  </url>
  <url>
   <loc>https://gentoo-ev.org/kontakt/</loc>
-  <lastmod>2020-08-24T09:26:00Z</lastmod>
+  <lastmod>2020-11-03T20:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/events-fosdem-2009/</loc>
@@ -51,7 +55,11 @@
  </url>
  <url>
   <loc>https://gentoo-ev.org/news/mitgliederversammlung-2019-12-29/</loc>
-  <lastmod>2020-08-24T09:21:00Z</lastmod>
+  <lastmod>2020-11-03T20:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://gentoo-ev.org/news/mitgliederversammlung-2020-12-08/</loc>
+  <lastmod>2020-11-03T20:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/rechtliches/</loc>
