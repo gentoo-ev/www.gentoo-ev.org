@@ -11,6 +11,9 @@ all:
 
 .PHONY: clean
 clean:
+	rm -rf src/__pycache__
+	rm -rf src/cache
+	rm -f src/.doit.db
 	git checkout HEAD -- $(GENERATED)
 
 .PHONY: require-clean-git
