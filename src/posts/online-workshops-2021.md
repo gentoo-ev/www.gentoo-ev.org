@@ -31,6 +31,14 @@ Als Termine stehen bisher fest:
   Bernd Waibel: *Developer-Tools zur Ebuild-Pflege*  
   <https://bbb.gentoo-ev.org/>
 
+- **Samstag, 2021-09-18 um 20:00 Uhr MESZ**  
+  Martin Dummer: *Ebuild Testing: Variante „VM mit Qemu“*  
+  <https://bbb.gentoo-ev.org/>
+
+- **Samstag, 2021-11-20 um 20:00 Uhr MESZ**  
+  N.N.: *Updatestrategie, Ebuild-Konflikte lösen*  
+  <https://bbb.gentoo-ev.org/>
+
 Themenangebote bitte an Jonas Stein <jstein@gentoo.org> schicken.
 
 Wir danken dem [CCC Cologne e.V.](https://koeln.ccc.de/) für das
