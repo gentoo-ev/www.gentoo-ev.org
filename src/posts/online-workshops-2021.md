@@ -17,7 +17,7 @@ Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.
 
 Als Termine stehen bisher fest:
 
-- **Samstag, 2021-03-20 um 20:00 Uhr MESZ**  
+- **Samstag, 2021-03-20 um 20:00 Uhr MEZ**  
   Jonas Stein: *Bugs und Co.*  
   Bugs assignen, Tools und Tricks rund um die Arbeit mit Tickets  
   <https://bbb.gentoo-ev.org/>
@@ -35,7 +35,7 @@ Als Termine stehen bisher fest:
   Martin Dummer: *Ebuild Testing: Variante „VM mit Qemu“*  
   <https://bbb.gentoo-ev.org/>
 
-- **Samstag, 2021-11-20 um 20:00 Uhr MESZ**  
+- **Samstag, 2021-11-20 um 20:00 Uhr MEZ**  
   N.N.: *Updatestrategie, Ebuild-Konflikte lösen*  
   <https://bbb.gentoo-ev.org/>
 
