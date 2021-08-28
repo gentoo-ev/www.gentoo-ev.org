@@ -23,13 +23,13 @@ In Protokollen der Mitgliederversammlung werden Namen in der
 Anwesenheitsliste und in Verbindung mit Vereinsangelegenheiten
 erfasst.
 
-Beim Zugriff auf Dienste der Server des Fördervereins Gentoo e. V.
+Beim Zugriff auf Dienste der Server des Fördervereins Gentoo e. V.
 werden folgende Daten zur Bereitstellung der Dienste und zur
 Überwachung der Funktionsfähigkeit erhoben: Eingaben aus
 Formularfeldern, Login-Daten, Datum und Uhrzeit, IP-Adresse,
 Identifikation des Clients bzw. Web-Browsers.
 
-Zur Bereitstellung der Dienste nehmen wir Leistungen in Anspruch von
+Zur Bereitstellung der Dienste nehmen wir Leistungen in Anspruch von:
 
 * manitu GmbH, St. Wendel
 * SysEleven GmbH, Berlin
