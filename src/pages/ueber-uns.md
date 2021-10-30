@@ -75,10 +75,3 @@ können, wurde Mitte April ein Merchandising Shop eröffnet, in dem
 Gentoo-Fanartikel bestellt werden können. Der Erlös wird dem Verein für
 Veranstaltungen, Beiträge zur allgemeinen Gentoo-Infrastruktur und
 Unterstützung anderer Landesgruppen zur Verfügung stehen.
-
-*Im November 2005* wurde satzungsgemäß nach 2-jähriger Amtszeit ein neuer
-Vorstand gewählt. Ulrich Plate, Herausgeber des Gentoo Weekly Newsletter,
-und Christian Hartmann, Moderator und Administrator der Gentoo Forums,
-wurden neu in den Vorstand gewählt, Kassenwart Stefan Knoblich im Amt
-bestätigt. Ebenfalls im Amt bestätigt wurde Kassenprüfer Tobias Scherbaum,
-als weiterer Kassenprüfer wurde Patrick Lauer gewählt.
