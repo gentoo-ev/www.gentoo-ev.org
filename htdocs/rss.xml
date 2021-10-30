@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2021 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Fri, 03 Sep 2021 17:43:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Mitgliederversammlung 2021-09-25</title><link>https://gentoo-ev.org/news/mitgliederversammlung-2021-09-25/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Die 1. ordentliche Mitgliederversammlung 2021
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2021 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Sat, 30 Oct 2021 10:40:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Online-Workshops 2022</title><link>https://gentoo-ev.org/news/online-workshops-2022/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;div&gt;&lt;p&gt;Auch im Jahr 2022 werden wir wieder eine Reihe von Online-Workshops
+mit Vorträgen organisieren. Sie werden über BigBlueButton als
+Konferenzsystem stattfinden.&lt;/p&gt;
+&lt;p&gt;Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.&lt;/p&gt;
+&lt;p&gt;Als Termine stehen bisher fest:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Samstag, 2022-01-15 um 20:00 Uhr MEZ&lt;/strong&gt;&lt;br&gt;
+  Simon-Nassim Kanoun: &lt;em&gt;Verteiltes Kompilieren mit icecc&lt;/em&gt;&lt;br&gt;
+&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Saturday, 2022-02-19 at 19:00 UTC (20:00 CET)&lt;/strong&gt;&lt;br&gt;
+  Simon-Nassim Kanoun: &lt;em&gt;Distributed compiling with icecc&lt;/em&gt; (in English)&lt;br&gt;
+&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Themenangebote bitte an Jonas Stein &lt;a href="mailto:jstein@gentoo.org"&gt;jstein@gentoo.org&lt;/a&gt; schicken.&lt;/p&gt;
+&lt;p&gt;Wir danken dem &lt;a href="https://koeln.ccc.de/"&gt;CCC Cologne e.V.&lt;/a&gt; für das
+Hosting des BBB-Servers, auf den wir weiterleiten.&lt;/p&gt;&lt;/div&gt;</description><guid>https://gentoo-ev.org/news/online-workshops-2022/</guid><pubDate>Sat, 30 Oct 2021 10:30:00 GMT</pubDate></item><item><title>Mitgliederversammlung 2021-09-25</title><link>https://gentoo-ev.org/news/mitgliederversammlung-2021-09-25/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Die 1. ordentliche Mitgliederversammlung 2021
 des Fördervereins Gentoo e.V. findet
 am &lt;strong&gt;Samstag, den 25.09.2021&lt;/strong&gt;
 um &lt;strong&gt;20:00 Uhr MESZ&lt;/strong&gt;
@@ -34,7 +53,7 @@ stattfinden.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Samstag, 2021-11-20 um 20:00 Uhr MEZ&lt;/strong&gt;&lt;br&gt;
-  N.N.: &lt;em&gt;Updatestrategie, Ebuild-Konflikte lösen&lt;/em&gt;&lt;br&gt;
+  Martin Dummer (und alle): &lt;em&gt;Updatestrategie, Ebuild-Konflikte lösen&lt;/em&gt;&lt;br&gt;
 &lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
