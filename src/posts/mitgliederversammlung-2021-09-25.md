@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Die 1. ordentliche Mitgliederversammlung 2021
+Die ordentliche Mitgliederversammlung 2021
 des Fördervereins Gentoo e.V. findet
 am **Samstag, den 25.09.2021**
 um **20:00 Uhr MESZ**
