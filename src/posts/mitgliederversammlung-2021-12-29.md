@@ -1,7 +1,7 @@
 <!--
 .. title: Mitgliederversammlung 2021-12-29
 .. slug: mitgliederversammlung-2021-12-29
-.. date: 2021-12-01 17:40:00 UTC+01:00
+.. date: 2021-12-28 23:15:00 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
@@ -9,9 +9,8 @@
 .. type: text
 -->
 
-Eine außerordentliche Mitgliederversammlung
-des Fördervereins Gentoo e.V. findet
-am **Mittwoch, den 29.12.2021**
-um **20:00 Uhr MEZ**
-als Audiokonferenz mit BigBlueButton statt.
-Adresse und Zugangsdaten wurden mit der Einladung verschickt.
+Die außerordentliche Mitgliederversammlung
+des Fördervereins Gentoo e.V. am 29.12.2021 wurde **abgesagt.**
+
+Die vorgesehenen Tagesordnungspunkte werden in der ordentlichen
+Mitgliederversammlung 2022 nachgeholt.
