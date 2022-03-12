@@ -22,7 +22,7 @@ Als Termine stehen bisher fest:
   <https://bbb.gentoo-ev.org/>
 
 - **Samstag, 2022-03-19 um 20:00 Uhr MEZ**  
-  Alle: *Tandem-Programmierung* von ebuilds
+  Alle: *Tandem-Programmierung* von ebuilds  
   <https://bbb.gentoo-ev.org/>
 
 - **Saturday, 2022-04-16 at 18:00 UTC (20:00 CEST)**  
