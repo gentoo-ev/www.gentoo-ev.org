@@ -44,5 +44,5 @@ Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
 **Jonas Stein**  
 2. Vorsitzender
 
-**Thomas Deutschmann**  
+**N. N.**  
 Schatzmeister
