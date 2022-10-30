@@ -15,6 +15,7 @@ Dokumente
 * [Beitrittserklärung (PDF)](/downloads/Mitgliedsantrag.pdf)
 * [Satzung (PDF)](/downloads/Satzung.pdf)
 * [Geschäftsordnung (PDF)](/downloads/Geschaeftsordnung.pdf)
+* [Vereinfachter Spendennachweis (PDF)](/downloads/Spendennachweis.pdf)
 * [Nutzungsbedingungen der Marke Gentoo® (PDF)](/downloads/Nutzungsbestimmungen.pdf)
 * [Datenschutzerklärung](datenschutz/)
 
