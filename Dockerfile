@@ -2,7 +2,7 @@
 # Licensed under the MIT license
 
 # Base image
-FROM debian:stretch-slim
+FROM debian:bullseye-slim
 
 # Start off with the most updated image possible
 RUN apt-get update && apt-get --yes dist-upgrade
