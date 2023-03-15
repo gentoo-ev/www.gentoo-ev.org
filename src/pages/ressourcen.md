@@ -17,19 +17,21 @@ Der Förderverein&nbsp;Gentoo&nbsp;e.V. stellt unter
 ein eigenes deutschsprachiges Portal rund um Gentoo zur Verfügung.
 
 
-Mailinglisten
-=============
+Mailingliste {:#mailingliste}
+=============================
 
-Momentan werden folgende [Mailinglisten](https://lists.gentoo-ev.org/)
-angeboten:
+Momentan wird die folgende Mailingliste angeboten:
 
-[announce](https://lists.gentoo-ev.org/mailman/listinfo/announce)
------------------------------------------------------------------
-Ankündigungen des Förderverein Gentoo e.V.
-
-[discussion](https://lists.gentoo-ev.org/mailman/listinfo/discussion)
----------------------------------------------------------------------
+gentoo-ev
+---------
 Diskussionen rund um das Vereinsleben betreffende Dinge
+
+* Abonnieren der Liste: Leere Nachricht an
+  <gentoo-ev+subscribe@lists.gentoo.org> senden.
+* Nachricht an die Liste: Mail an <gentoo-ev@lists.gentoo.org>
+  (wird nur von Abonnenten akzeptiert).
+* [Ausführliche Anleitung](https://www.gentoo.org/get-involved/mailing-lists/instructions.html)
+  (auf Englisch)
 
 
 Logos
