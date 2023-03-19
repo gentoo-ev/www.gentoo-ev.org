@@ -34,6 +34,18 @@ Diskussionen rund um das Vereinsleben betreffende Dinge
   (auf Englisch)
 
 
+Rsync-Mirror
+============
+
+Zur schnelleren Verfügbarkeit werden die Gentoo-Pakete (Ebuilds) durch
+den Gentoo&nbsp;e.V. auf einem Server in Deutschland gespiegelt.
+Der Server kann in den Regionen rsync.europe.gentoo.org oder
+rsync.de.gentoo.org angesprochen werden.
+
+Eine weiterführende Erklärung findet sich auf der Gentoo-Hauptseite:
+<https://www.gentoo.org/support/rsync-mirrors/>
+
+
 Logos
 =====
 
