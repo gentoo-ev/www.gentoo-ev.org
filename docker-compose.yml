@@ -17,5 +17,5 @@ services:
       - ssl-reverse-proxy
     volumes:
       - ./htdocs:/var/www/html/:ro
-      - ./lighttpd-url-rewrites.conf:/etc/lighttpd/conf-enabled/99-url-rewrites.conf:ro
+      - ./lighttpd-url-redirect.conf:/etc/lighttpd/conf-enabled/99-url-redirect.conf:ro
     restart: unless-stopped
