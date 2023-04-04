@@ -1,7 +1,7 @@
 [Theme]
 engine = mako
 parent = base
-author = Förderverrein Gentoo e.V.
+author = Förderverein Gentoo e.V.
 author_url = https://gentoo-ev.org/
 based_on = bootstrap3 <https://themes.getnikola.com/v8/bootstrap3/>
 license = MIT
