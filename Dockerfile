@@ -4,9 +4,6 @@
 # Base image
 FROM debian:bullseye-slim
 
-# Start off with the most updated image possible
-RUN apt-get update && apt-get --yes dist-upgrade
-
 # Install dependencies
 RUN apt-get update && apt-get install --no-install-recommends --yes -V \
         lighttpd
@@ -21,3 +18,7 @@ CMD ["sh", "-c", "cat <> /var/log/lighttpd/access.log & lighttpd -D -f /etc/ligh
 # Interface to the outside world
 EXPOSE 80
 VOLUME /var/www/html/
+
+# Apply system upgrades last
+# .. to not be turned into a no-op by Docker cache most of the time
+RUN apt-get update && apt-get --yes dist-upgrade
