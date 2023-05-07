@@ -1,7 +1,7 @@
 <!--
 .. title: Online-Workshops 2023
 .. slug: online-workshops-2023
-.. date: 2023-01-14 10:30:00 UTC+01:00
+.. date: 2023-05-07 09:20:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
