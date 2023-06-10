@@ -2,7 +2,7 @@
 # Licensed under the MIT license
 
 # Base image
-FROM debian:bullseye-slim
+FROM debian:bookworm-slim
 
 # Install dependencies
 RUN apt-get update && apt-get install --no-install-recommends --yes -V \
