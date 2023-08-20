@@ -1,7 +1,7 @@
 <!--
 .. title: Datenschutzerklärung
 .. slug: datenschutz
-.. date: 2021-08-27 15:00:00 UTC+02:00
+.. date: 2023-08-20 19:00:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
@@ -16,8 +16,8 @@ Zur Mitgliederverwaltung einschließlich Beitragsverwaltung werden
 folgende Daten erfasst und verarbeitet:
 
 Name, Adresse, Geburtsdatum, Telefonnummer, E-Mail-Adresse,
-Ein- und Austrittsdatum, Bankverbindung, sowie alle Ein- und
-Auszahlungen.
+Ein- und Austrittsdatum, Mitgliedsbeitrag, Bankverbindung,
+sowie alle Ein- und Auszahlungen.
 
 In Protokollen der Mitgliederversammlung werden Namen in der
 Anwesenheitsliste und in Verbindung mit Vereinsangelegenheiten
