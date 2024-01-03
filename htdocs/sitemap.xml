@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://gentoo-ev.org/</loc>
-  <lastmod>2023-09-28T12:25:00Z</lastmod>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/2017/</loc>
@@ -38,8 +38,12 @@
   <lastmod>2023-05-07T07:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://gentoo-ev.org/2024/</loc>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://gentoo-ev.org/archive.html</loc>
-  <lastmod>2023-11-12T15:16:00Z</lastmod>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/categories/</loc>
@@ -47,7 +51,7 @@
  </url>
  <url>
   <loc>https://gentoo-ev.org/index-1.html</loc>
-  <lastmod>2023-11-12T15:16:00Z</lastmod>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/kontakt/</loc>
@@ -86,6 +90,10 @@
   <lastmod>2023-05-07T07:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://gentoo-ev.org/news/mitgliederversammlung-2024-03-16/</loc>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://gentoo-ev.org/news/online-workshops-2021/</loc>
   <lastmod>2023-04-04T08:12:00Z</lastmod>
  </url>
@@ -96,6 +104,10 @@
  <url>
   <loc>https://gentoo-ev.org/news/online-workshops-2023/</loc>
   <lastmod>2023-05-07T07:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://gentoo-ev.org/news/online-workshops-2024/</loc>
+  <lastmod>2024-01-03T10:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://gentoo-ev.org/rechtliches/</loc>
