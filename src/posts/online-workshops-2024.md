@@ -17,6 +17,10 @@ Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.
 
 Als Termine stehen bisher fest:
 
+- **Samstag, 2024-03-16 vsl. um 21:00 MEZ** (nach der Mitgliederversammlung)  
+  Alle: *Bugday – Wir beheben offene Bugs*  
+  <https://bbb.gentoo-ev.org/>
+
 - **Samstag, 2024-01-20 um 20:00 MEZ**  
   Alle: *Ebuild für neues Paket gemeinsam erstellen*  
   <https://bbb.gentoo-ev.org/>
