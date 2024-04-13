@@ -12,6 +12,6 @@
 Die ordentliche Mitgliederversammlung 2024
 des Fördervereins Gentoo e.V. findet
 am **Samstag, den 16.03.2024**
-um **20:00 Uhr MESZ**
+um **20:00 Uhr MEZ**
 als Audiokonferenz mit BigBlueButton statt.
 Adresse und Zugangsdaten werden mit der Einladung verschickt.
