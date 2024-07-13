@@ -20,6 +20,10 @@ E-Mail
 ======
 [www@gentoo-ev.org](mailto:www@gentoo-ev.org)
 
+Mastodon
+========
+<a rel="me" href="https://fosstodon.org/@Gentoo_eV">@Gentoo_eV@fosstodon.org</a>
+
 Bankverbindung {:#bankverbindung}
 =================================
 > IBAN: DE18 3704 0044 0373 2666 00  
