@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
         ("/downloads/Mitgliedsantrag.pdf", "Mitglied werden"),
         ("/ressourcen/", "Ressourcen"),
         ("/rechtliches/", "Rechtliches"),
+        ("/spenden/", "Spenden"),
         ("/kontakt/", "Kontakt"),
     ),
 }
