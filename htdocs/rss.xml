@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2025 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Tue, 18 Feb 2025 18:40:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Mitgliederversammlung 2025-04-05</title><link>https://gentoo-ev.org/news/mitgliederversammlung-2025-04-05/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Die ordentliche Mitgliederversammlung 2025
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2025 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Sun, 23 Feb 2025 15:18:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Online-Workshops 2025</title><link>https://gentoo-ev.org/news/online-workshops-2025/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Auch im Jahr 2025 werden wir wieder eine Reihe von Online-Workshops
+mit Vorträgen organisieren. Sie werden über BigBlueButton als
+Konferenzsystem stattfinden.&lt;/p&gt;
+&lt;p&gt;Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.&lt;/p&gt;
+&lt;p&gt;Als Termine stehen bisher fest:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Samstag, 2025-05-17 um 20:00 MESZ&lt;/strong&gt;&lt;br&gt;
+  Ulrich Müller: &lt;em&gt;EAPI 9&lt;/em&gt;&lt;br&gt;
+  Was ändert sich für Variablen, Pipelines, Versionen u. a. m.?&lt;br&gt;
+&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Samstag, 2025-03-15 um 20:00 MEZ&lt;/strong&gt;&lt;br&gt;
+  Alle: &lt;em&gt;Bugday – Wir beheben offene Bugs&lt;/em&gt;&lt;br&gt;
+&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Themenangebote bitte an Jonas Stein &lt;a href="mailto:jstein@gentoo.org"&gt;jstein@gentoo.org&lt;/a&gt; schicken.&lt;/p&gt;</description><guid>https://gentoo-ev.org/news/online-workshops-2025/</guid><pubDate>Sun, 23 Feb 2025 14:56:19 GMT</pubDate></item><item><title>Mitgliederversammlung 2025-04-05</title><link>https://gentoo-ev.org/news/mitgliederversammlung-2025-04-05/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Die ordentliche Mitgliederversammlung 2025
 des Fördervereins Gentoo e.V. findet
 am &lt;strong&gt;Samstag, den 05.04.2025&lt;/strong&gt;
 um &lt;strong&gt;20:00 Uhr MESZ&lt;/strong&gt;
@@ -152,40 +170,4 @@ des Fördervereins Gentoo e.V. findet
 am &lt;strong&gt;Samstag, den 25.09.2021&lt;/strong&gt;
 um &lt;strong&gt;20:00 Uhr MESZ&lt;/strong&gt;
 als Audiokonferenz mit BigBlueButton statt.
-Adresse und Zugangsdaten wurden mit der Einladung verschickt.&lt;/p&gt;</description><guid>https://gentoo-ev.org/news/mitgliederversammlung-2021-09-25/</guid><pubDate>Sun, 22 Aug 2021 09:40:00 GMT</pubDate></item><item><title>Online-Workshops 2021</title><link>https://gentoo-ev.org/news/online-workshops-2021/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Wir organisieren im Jahr 2021 eine Reihe von Online-Workshops mit
-Vorträgen. Sie werden über BigBlueButton als Konferenzsystem
-stattfinden.&lt;/p&gt;
-&lt;p&gt;Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.&lt;/p&gt;
-&lt;p&gt;Als Termine stehen bisher fest:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Samstag, 2021-11-20 um 20:00 Uhr MEZ&lt;/strong&gt;&lt;br&gt;
-  Martin Dummer (und alle): &lt;em&gt;Updatestrategie, Ebuild-Konflikte lösen&lt;/em&gt;&lt;br&gt;
-&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Samstag, 2021-09-18 um 20:00 Uhr MESZ&lt;/strong&gt;&lt;br&gt;
-  Martin Dummer: &lt;em&gt;Ebuild Testing: Variante „VM mit Qemu“&lt;/em&gt;&lt;br&gt;
-&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Samstag, 2021-07-17 um 20:00 Uhr MESZ&lt;/strong&gt;&lt;br&gt;
-  Bernd Waibel: &lt;em&gt;Developer-Tools zur Ebuild-Pflege&lt;/em&gt;&lt;br&gt;
-&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Samstag, 2021-05-15 um 20:00 Uhr MESZ&lt;/strong&gt;&lt;br&gt;
-  Ulrich Müller: &lt;em&gt;EAPI 7 und Ausblick auf EAPI 8&lt;/em&gt;&lt;br&gt;
-  Ebuilds, Paketmanager, und wie sie interagieren&lt;br&gt;
-&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Samstag, 2021-03-20 um 20:00 Uhr MEZ&lt;/strong&gt;&lt;br&gt;
-  Jonas Stein: &lt;em&gt;Bugs und Co.&lt;/em&gt;&lt;br&gt;
-  Bugs assignen, Tools und Tricks rund um die Arbeit mit Tickets&lt;br&gt;
-&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Themenangebote bitte an Jonas Stein &lt;a href="mailto:jstein@gentoo.org"&gt;jstein@gentoo.org&lt;/a&gt; schicken.&lt;/p&gt;
-&lt;p&gt;Wir danken dem &lt;a href="https://koeln.ccc.de/"&gt;CCC Cologne e.V.&lt;/a&gt; für das
-Hosting des BBB-Servers, auf den wir weiterleiten.&lt;/p&gt;</description><guid>https://gentoo-ev.org/news/online-workshops-2021/</guid><pubDate>Wed, 10 Mar 2021 20:30:00 GMT</pubDate></item></channel></rss>
+Adresse und Zugangsdaten wurden mit der Einladung verschickt.&lt;/p&gt;</description><guid>https://gentoo-ev.org/news/mitgliederversammlung-2021-09-25/</guid><pubDate>Sun, 22 Aug 2021 09:40:00 GMT</pubDate></item></channel></rss>
