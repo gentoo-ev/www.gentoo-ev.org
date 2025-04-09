@@ -48,5 +48,5 @@ Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
 **Jonas Stein**  
 2. Vorsitzender
 
-**N. N.**  
+**David Sardari**  
 Schatzmeister
