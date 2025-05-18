@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2025 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Wed, 09 Apr 2025 18:03:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Online-Workshops 2025</title><link>https://gentoo-ev.org/news/online-workshops-2025/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Auch im Jahr 2025 werden wir wieder eine Reihe von Online-Workshops
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Förderverein Gentoo e.V.</title><link>https://gentoo-ev.org/</link><description>Webauftritt des Förderverein Gentoo e.V.</description><atom:link href="https://gentoo-ev.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2025 &lt;a href="mailto:www@gentoo-ev.org"&gt;Förderverein Gentoo e.V.&lt;/a&gt; </copyright><lastBuildDate>Sun, 18 May 2025 19:36:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Online-Workshops 2025</title><link>https://gentoo-ev.org/news/online-workshops-2025/</link><dc:creator>Förderverein Gentoo e.V.</dc:creator><description>&lt;p&gt;Auch im Jahr 2025 werden wir wieder eine Reihe von Online-Workshops
 mit Vorträgen organisieren. Sie werden über BigBlueButton als
 Konferenzsystem stattfinden.&lt;/p&gt;
 &lt;p&gt;Die Teilnahme ist kostenlos und auch für Nicht-Vereinsmitglieder offen.&lt;/p&gt;
 &lt;p&gt;Als Termine stehen bisher fest:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Saturday, 2025-06-14 at 18:00 UTC (20:00 CEST)&lt;/strong&gt;&lt;br&gt;
+  David Sardari: &lt;em&gt;Discussion on LibrePGP and GnuPG&lt;/em&gt;&lt;br&gt;
+&lt;a href="https://bbb.gentoo-ev.org/"&gt;https://bbb.gentoo-ev.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Samstag, 2025-05-10 um 20:00 MESZ (Achtung, Datumsänderung!)&lt;/strong&gt;&lt;br&gt;
   Ulrich Müller: &lt;em&gt;EAPI 9&lt;/em&gt;&lt;br&gt;
