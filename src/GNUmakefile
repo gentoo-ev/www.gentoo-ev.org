@@ -2,10 +2,10 @@
 # Licensed under the MIT license
 
 .PHONY: all
-all: ../htdocs/images/qrcode-spende.png
+all: files/images/qrcode-spende.png
 	nikola build -a
 
-../htdocs/images/qrcode-spende.png: qrcode-spende.txt
+files/images/qrcode-spende.png: qrcode-spende.txt
 	qrencode -t PNG -r $< -o $@
 
 .PHONY: clean
