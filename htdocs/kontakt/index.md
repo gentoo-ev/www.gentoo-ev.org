@@ -12,7 +12,6 @@
 Postanschrift
 =============
 > Förderverein Gentoo e.V.  
-> c/o Ulrich Müller  
 > Alfred-Mumbächer-Str. 67a  
 > 55128 Mainz
 
