@@ -6,10 +6,10 @@ networks:
     external: true
 
 services:
-  gentoo-ev-org:
+  wwwtest-gentoo-ev-org:
     build: .
     ports:
-      - 127.0.0.1:50180:80
+      - 127.0.0.1:50580:80
     networks:
       - default
       - ssl-reverse-proxy
