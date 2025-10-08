@@ -901,8 +901,7 @@ article.post-micro {
     }
 }
 
-
-/* BEGIN Gentoo e.V. */
+/* Custom configuration for Gentoo e.V. */
 
 .navbar-inverse {
     background-color: #54487A;
@@ -914,12 +913,10 @@ article.post-micro {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #fff;
+    color: #ffffff;
 }
 
 a, a:active, a:hover, a:link, a:visited {
     color: #54487A;
 }
-
-/* END Gentoo e.V. */
 
