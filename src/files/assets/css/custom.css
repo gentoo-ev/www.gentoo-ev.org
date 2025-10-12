@@ -128,3 +128,17 @@ a {
   font-weight: 400;
   font-synthesis: none;
 }
+
+footer img {
+  margin-bottom: 1em;
+  max-width: 25%;
+  height: auto;
+}
+
+footer a + a > img {
+  margin-left: 3em;
+}
+
+footer a:link {
+  border: none;
+}

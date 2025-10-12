@@ -998,7 +998,19 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '&copy; {date} <a href="mailto:{email}">{author}</a> – Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a> {license}<br/>Gentoo ist eine eingetragene Marke des <a href="https://gentoo-ev.org/">Fördervereins Gentoo e.V.</a> und der <a href="https://foundation.gentoo.org/">Gentoo Foundation, Inc.</a>'
+CONTENT_FOOTER = '''
+<p class="text-uppercase">Mit freundlicher Unterstützung von:</p>
+<a href="https://www.manitu.de/"><img src="/images/manitu_logo.png" alt="manitu" /></a>
+<a href="https://www.syseleven.de/?utm_source=gentoofooter&amp;utm_medium=footer&amp;utm_content=url"><img src="/images/syseleven_logo.png" alt="syseleven" /></a>
+<p>
+  © {date} <a href="mailto:{email}">{author}</a> –
+  Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+  {license}<br/>
+  Gentoo ist eine eingetragene Marke des
+  <a href="https://gentoo-ev.org/">Fördervereins Gentoo e.V.</a> und der
+  <a href="https://foundation.gentoo.org/">Gentoo Foundation, Inc.</a>
+</p>
+'''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
