@@ -17,7 +17,7 @@ Dokumente
 * [Geschäftsordnung (PDF)](/downloads/Geschaeftsordnung.pdf)
 * [Vereinfachter Spendennachweis (PDF)](/downloads/Spendennachweis.pdf)
 * [Nutzungsbedingungen der Marke Gentoo® (PDF)](/downloads/Nutzungsbestimmungen.pdf)
-* [Datenschutzerklärung](datenschutz/)
+* [Datenschutzerklärung](/datenschutz/)
 
 
 Impressum
