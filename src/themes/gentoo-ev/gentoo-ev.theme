@@ -1,0 +1,6 @@
+[Theme]
+engine = mako
+parent = bootstrap3-gradients
+author = Förderverein Gentoo e.V.
+author_url = https://gentoo-ev.org/
+license = MIT
