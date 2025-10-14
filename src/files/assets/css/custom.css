@@ -63,6 +63,16 @@
        url("../fonts/Bitter-Italic.ttf") format("ttf");
 }
 
+/* "Newage" font for gentoo logo */
+@font-face {
+  font-family: GentooNewage;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/GentooNewage.woff2") format("woff2"),
+       url("../fonts/GentooNewage.woff") format("woff"),
+       url("../fonts/GentooNewage.ttf") format("truetype");
+}
+
 html, body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -102,4 +112,18 @@ blockquote, blockquote p { font-size: 14px; }
 
 a {
   color: #54487a;
+}
+
+
+/* Miscellaneous */
+
+#logo {
+  height: 4rem;
+  margin: 0.6rem 1.5rem 0.6rem 0;
+}
+
+#logo-text {
+  font-family: GentooNewage, "Open Sans", sans-serif;
+  font-weight: 400;
+  font-synthesis: none;
 }
