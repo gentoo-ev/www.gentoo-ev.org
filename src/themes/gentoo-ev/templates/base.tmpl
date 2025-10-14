@@ -26,6 +26,9 @@ ${template_hooks['extra_head']()}
             %if logo_url:
                 <img src="${logo_url}" alt="${blog_title|h}" id="logo">
             %endif
+            %if logo_text:
+                <span id="logo-text">${logo_text|h}</span>
+            %endif
 
             % if show_blog_title:
                 <span id="blog-title">${blog_title|h}</span>

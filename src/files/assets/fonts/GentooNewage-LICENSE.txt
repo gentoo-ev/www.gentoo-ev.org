@@ -1,0 +1,40 @@
+Copyright (c) 2024 Ulrich Müller <ulm@gentoo.org>
+
+Dual-licensed under GPL-2+-with-font-exception or CC-BY-SA-4.0.
+
+
+This font is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This font is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+with this font. If not, see <https://www.gnu.org/licenses/>.
+
+As a special exception, if you create a document which uses this font,
+and embed this font or unaltered portions of this font into the
+document, this font does not by itself cause the resulting document to
+be covered by the GNU General Public License. This exception does not
+however invalidate any other reasons why the document might be covered
+by the GNU General Public License. If you modify this font, you may
+extend this exception to your version of the font, but you are not
+obligated to do so. If you do not wish to do so, delete this exception
+statement from your version.
+
+
+Alternatively (and at your option), this font can be distributed
+under the terms of the Creative Commons Attribution-ShareAlike 4.0
+International license. To view a copy of this license, visit
+<https://creativecommons.org/licenses/by-sa/4.0/>.
+
+
+Gentoo is a trademark of Gentoo Foundation, Inc., New Mexico, USA
+(USPTO registration number 2966511) and of Förderverein Gentoo e.V.,
+Mainz, Germany (DPMA registration number 30546062, EUIPO registration
+number 005275714). The Gentoo Name and Logo Usage Guidelines apply:
+<https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html>
