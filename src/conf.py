@@ -1293,6 +1293,7 @@ SHOW_SOURCELINK = True
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = '''
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
 <style>
   #logo { width: 4rem; height: 4rem; margin: 0.6rem 1.5rem 0.6rem 0; }
 </style>
