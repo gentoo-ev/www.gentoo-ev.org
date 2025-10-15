@@ -118,6 +118,7 @@ a {
 /* Miscellaneous */
 
 #logo {
+  width: 4rem;
   height: 4rem;
   margin: 0.6rem 1.5rem 0.6rem 0;
 }
