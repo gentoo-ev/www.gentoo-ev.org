@@ -75,12 +75,16 @@ ${template_hooks['extra_head']()}
 </div>
 
 ${base.late_load_js()}
+    <%doc>
+    ## Commented out because of "Uncaught ReferenceError: moment is not
+    ## defined", see https://github.com/getnikola/nikola-themes/issues/211
     <!-- fancy dates -->
     <script>
     moment.locale("${momentjs_locales[lang]}");
     fancydates(${date_fanciness}, ${js_date_format});
     </script>
     <!-- end fancy dates -->
+    </%doc>
     <%block name="extra_js"></%block>
     <script>
     baguetteBox.run('div#content', {
