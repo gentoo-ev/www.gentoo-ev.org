@@ -1003,7 +1003,8 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC&nbsp;BY-SA&nbsp;4.0</a>'
+
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
@@ -1020,8 +1021,8 @@ CONTENT_FOOTER = '''
 <a href="https://www.syseleven.de/?utm_source=gentoofooter&amp;utm_medium=footer&amp;utm_content=url"><img src="/images/syseleven_logo.png" alt="syseleven" /></a>
 <p>
   © {date} <a href="mailto:{email}">{author}</a> –
-  Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
-  {license}<br/>
+  Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a><br/>
+  Der Text dieses Dokuments ist unter der Lizenz {license} verfügbar.<br/>
   Gentoo ist eine eingetragene Marke des
   <a href="https://gentoo-ev.org/">Fördervereins Gentoo e.V.</a> und der
   <a href="https://foundation.gentoo.org/">Gentoo Foundation, Inc.</a>
