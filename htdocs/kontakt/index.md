@@ -9,43 +9,34 @@
 .. type: text
 -->
 
-Postanschrift
-=============
-> Förderverein Gentoo e.V.  
-> Alfred-Mumbächer-Str. 67a  
-> 55128 Mainz
-
 E-Mail
 ======
-[www@gentoo-ev.org](mailto:www@gentoo-ev.org)
+Mit Fragen, Anregungen und Hinweisen können Sie sich gerne an uns via
+E-Mail an [www@gentoo-ev.org](mailto:www@gentoo-ev.org) wenden.  
+Ebenso ist dies die Kontaktadresse für technische Probleme
+(wie dem rsync-Server oder der Webseite).
 
 Mastodon
 ========
 <a rel="me" href="https://fosstodon.org/@Gentoo_eV">@Gentoo_eV@fosstodon.org</a>
 
+Impressum {:#impressum}
+=======================
+> **Förderverein Gentoo e.V.**  
+> Alfred-Mumbächer-Str. 67a  
+> 55128 Mainz
+>
+> **Vorstand:** Ulrich Müller, Jonas Stein, David Sardari
+>
+> **E-Mail:** [vorstand@gentoo-ev.org](mailto:vorstand@gentoo-ev.org)
+>
+> **Vereinsregistereintrag:**  
+> Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
+> Amtsgerichts Oberhausen unter der Vereins-Nr. VR&nbsp;1621.  
+> Seit 1. April 2021 eingetragen beim **Amtsgericht Mainz**
+> unter der Vereins-Nr. **VR&nbsp;42055**.
+
 Bankverbindung {:#bankverbindung}
 =================================
 > IBAN: DE18 3704 0044 0373 2666 00  
 > BIC: COBADEFFXXX (Commerzbank Köln)
-
-Vereinsregistereintrag
-======================
-Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
-Amtsgerichts Oberhausen unter der Vereins-Nr. VR&nbsp;1621.
-
-Seit 1. April 2021 eingetragen beim **Amtsgericht Mainz**
-unter der Vereins-Nr. **VR&nbsp;42055**.
-
-
-Impressum {:#impressum}
-=======================
-Verantwortlich für den Inhalt dieser Seite sind die genannten Autoren.
-
-**Ulrich Müller**  
-1. Vorsitzender
-
-**Jonas Stein**  
-2. Vorsitzender
-
-**David Sardari**  
-Schatzmeister

@@ -9,14 +9,6 @@
 .. type: text
 -->
 
-www.gentoo.de
-=============
-
-Der Förderverein&nbsp;Gentoo&nbsp;e.V. stellt unter
-[www.gentoo.de](https://www.gentoo.de/)
-ein eigenes deutschsprachiges Portal rund um Gentoo zur Verfügung.
-
-
 Mailingliste {:#mailingliste}
 =============================
 
