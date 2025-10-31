@@ -1,4 +1,0 @@
-Sitemap: https://gentoo-ev.org/sitemapindex.xml
-
-User-Agent: *
-Host: gentoo-ev.org
