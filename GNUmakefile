@@ -6,7 +6,6 @@ GENERATED = htdocs
 .PHONY: all
 all:
 	$(MAKE) -C src
-#	./optimize-png-files.sh htdocs/assets/css/images/
 
 .PHONY: clean
 clean:
