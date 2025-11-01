@@ -12,13 +12,13 @@
 E-Mail
 ======
 Mit Fragen, Anregungen und Hinweisen können Sie sich gerne an uns via
-E-Mail an [www@gentoo-ev.org](mailto:www@gentoo-ev.org) wenden.  
+E-Mail an <www@gentoo-ev.org> wenden.  
 Ebenso ist dies die Kontaktadresse für technische Probleme
 (wie dem rsync-Server oder der Webseite).
 
 Mastodon
 ========
-<a rel="me" href="https://fosstodon.org/@Gentoo_eV">@Gentoo_eV@fosstodon.org</a>
+[@Gentoo_eV@fosstodon.org](https://fosstodon.org/@Gentoo_eV){rel="me"}
 
 Impressum {:#impressum}
 =======================
@@ -28,7 +28,7 @@ Impressum {:#impressum}
 >
 > **Vorstand:** Ulrich Müller, Jonas Stein, David Sardari
 >
-> **E-Mail:** [vorstand@gentoo-ev.org](mailto:vorstand@gentoo-ev.org)
+> **E-Mail:** <vorstand@gentoo-ev.org>
 >
 > **Vereinsregistereintrag:**  
 > Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
