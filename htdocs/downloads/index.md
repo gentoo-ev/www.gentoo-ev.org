@@ -23,8 +23,7 @@ Installation.
 Wir stellen zwei Versionen für *amd64* zur Verfügung:
 *Minimal Installation CD* und *LiveGUI USB Image*.
 (Details zu den Architekturen finden sich im
-<a href="https://wiki.gentoo.org/wiki/Handbook:Main_Page/de">
-Gentoo-Handbuch</a>.)
+[Gentoo-Handbuch](https://wiki.gentoo.org/wiki/Handbook:Main_Page/de).)
 
 Gentoo zum Installieren: *Stages* und *Minimal LiveCD*
 ======================================================

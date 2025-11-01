@@ -21,11 +21,11 @@ Spenden in Deutschland steuerlich absetzbar.
 
 [Vereinfachter Spendennachweis (PDF)](/downloads/Spendennachweis.pdf)
 
-![EPC-QR-Code](/images/qrcode-spende.png){align=right}
+![EPC-QR-Code](/images/qrcode-spende.png){style="float:right"}
 
 Bankverbindung
 --------------
-Foerderverein Gentoo e. V.  
+Förderverein Gentoo e. V.  
 IBAN: DE18 3704 0044 0373 2666 00  
 BIC: COBADEFFXXX (Commerzbank Köln)
 

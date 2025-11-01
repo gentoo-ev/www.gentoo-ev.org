@@ -40,7 +40,9 @@ verschiedenen Optionen beschrieben.
 **Deutsche Version**  
 Bitte beachten Sie, dass die deutsche Version aktuell noch überarbeitet wird.
 Daher sind einige Teile bislang nur in englischer Sprache verfügbar.  
-Wir würden uns über <a class="alert-link" href="https://wiki.gentoo.org/wiki/Help:Translating/de">Beiträge zur Übersetzung</a> freuen.
+Wir würden uns über
+[Beiträge zur Übersetzung](https://wiki.gentoo.org/wiki/Help:Translating/de){.alert-link}
+freuen.
 {.alert .alert-warning}
 
 [{{% icon book %}} Gentoo-Handbuch](https://wiki.gentoo.org/wiki/Handbook:Main_Page/de){.list-group-item .list-group-item-action}

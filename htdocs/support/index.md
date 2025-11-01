@@ -70,5 +70,5 @@ Anleitung beschrieben (siehe unten):
 {.list-group .lead}
 
 Archive der Listen gibt es auf archives.gentoo.org von der
-<a href="https://archives.gentoo.org/gentoo-user-de/">deutschen Liste</a>
-und der <a href="https://archives.gentoo.org/gentoo-user/">englischen</a>.
+[deutschen Liste](https://archives.gentoo.org/gentoo-user-de/) und der
+[englischen](https://archives.gentoo.org/gentoo-user/).
