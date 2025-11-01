@@ -21,7 +21,7 @@ Spenden in Deutschland steuerlich absetzbar.
 
 [Vereinfachter Spendennachweis (PDF)](/downloads/Spendennachweis.pdf)
 
-![EPC-QR-Code](/images/qrcode-spende.png){align=right}
+![EPC-QR-Code](/images/qrcode-spende.png){style="float:right"}
 
 Bankverbindung
 --------------
