@@ -10,6 +10,7 @@ all: files/images/qrcode-spende.png
 
 files/images/qrcode-spende.png: qrcode-spende.txt
 	qrencode -t PNG -r $< -o $@
+	optipng -o6 -strip all $@
 
 .PHONY: clean
 clean:
