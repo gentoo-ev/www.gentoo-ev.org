@@ -17,7 +17,7 @@ Dokumentation. Hier ist sie zu finden:
 Richtig. Bislang war **gentoo.de** zu großen Teilen eine Kopie der
 deutschen Inhalte von **gentoo.org**.  
 Jetzt, da die Dokumentation des Gentoo-Projekts im
-[Gentoo-Wiki](https://wiki.gentoo.org){.alert-link} gepflegt wird,
+[Gentoo-Wiki](https://wiki.gentoo.org/){.alert-link} gepflegt wird,
 bieten wir die Inhalte aus Aktualitätsgründen hier nicht nochmal an
 und verweisen stattdessen auf das Wiki.
 {.alert .alert-info}

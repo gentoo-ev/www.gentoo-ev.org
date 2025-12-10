@@ -33,7 +33,7 @@ Gründung {:#gruendung}
 
 *Ende 2002* hatte Gentoo Linux einen relativ großen Benutzerkreis.
 Vor allem im deutschsprachigen Raum war der Zuwachs an Benutzern
-außergewöhnlich hoch. Projekte wie z.B. [www.gentoo.de](https://www.gentoo.de)
+außergewöhnlich hoch. Projekte wie z.B. [www.gentoo.de](https://www.gentoo.de/)
 trugen ihren Teil dazu bei, deutschen Anwendern die Installation und
 Administration von Gentoo Linux so einfach wie nur möglich zu machen.
 Aus diesem Grund war es auch selbstverständlich, dass im Frühjahr 2003
