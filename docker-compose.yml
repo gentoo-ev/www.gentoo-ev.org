@@ -16,4 +16,5 @@ services:
     volumes:
       - ./htdocs:/var/www/html/:ro
       - ./lighttpd-url-redirect.conf:/etc/lighttpd/conf-enabled/99-url-redirect.conf:ro
+      - ./lighttpd-mime-types.conf:/etc/lighttpd/conf-enabled/99-mime-types.conf:ro
     restart: unless-stopped
