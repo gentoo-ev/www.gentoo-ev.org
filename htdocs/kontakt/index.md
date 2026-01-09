@@ -38,5 +38,5 @@ Impressum {:#impressum}
 
 Bankverbindung {:#bankverbindung}
 =================================
-> IBAN: DE18 3704 0044 0373 2666 00  
-> BIC: COBADEFFXXX (Commerzbank Köln)
+> **IBAN:** DE18 3704 0044 0373 2666 00  
+> **BIC:** COBADEFFXXX (Commerzbank Köln)
