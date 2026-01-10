@@ -22,7 +22,7 @@ Mastodon
 
 Impressum {:#impressum}
 =======================
-> **Förderverein Gentoo e.V.**  
+> **Förderverein Gentoo e. V.**  
 > Alfred-Mumbächer-Str. 67a  
 > 55128 Mainz
 >
