@@ -22,7 +22,7 @@ Mastodon
 
 Impressum {:#impressum}
 =======================
-> **Förderverein Gentoo e.V.**  
+> **Förderverein Gentoo e. V.**  
 > Alfred-Mumbächer-Str. 67a  
 > 55128 Mainz
 >
@@ -38,5 +38,5 @@ Impressum {:#impressum}
 
 Bankverbindung {:#bankverbindung}
 =================================
-> IBAN: DE18 3704 0044 0373 2666 00  
-> BIC: COBADEFFXXX (Commerzbank Köln)
+> **IBAN:** DE18 3704 0044 0373 2666 00  
+> **BIC:** COBADEFFXXX (Commerzbank Köln)
