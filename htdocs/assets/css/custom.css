@@ -115,7 +115,6 @@ a {
   color: #54487a;
 }
 
-
 /* Miscellaneous */
 
 #logo {
@@ -144,6 +143,14 @@ footer a:link {
   border: none;
 }
 
-.well p:last-child {
+/* Remove bottom margin from the very last paragraph in a well */
+.well .col-md-6:last-child p:last-child {
   margin-bottom: 0;
+}
+
+/* On wide (>= md) screens, same for last paragraph of every column */
+@media (min-width: 992px) {
+  .well .col-md-6 p:last-child {
+    margin-bottom: 0;
+  }
 }
