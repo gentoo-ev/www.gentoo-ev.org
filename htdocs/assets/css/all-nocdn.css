@@ -1032,6 +1032,10 @@ blockquote, blockquote p { font-size: 14px; }
   color: #ffffff;
 }
 
+.navbar-inverse .fa-heart {
+  color: #d9534f;
+}
+
 a {
   color: #54487a;
 }
