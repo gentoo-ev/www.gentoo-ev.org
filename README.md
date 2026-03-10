@@ -1,7 +1,17 @@
 [![Build](https://github.com/gentoo-ev/www.gentoo-ev.org/actions/workflows/build.yml/badge.svg)](https://github.com/gentoo-ev/www.gentoo-ev.org/actions/workflows/build.yml)
 
 
-# How to Build and Run (on Gentoo)
+# How to build and test the website (on Gentoo)
+
+```console
+$ sudo emerge www-apps/nikola
+$ cd src
+$ make
+$ nikola serve -b
+```
+
+
+# How to build and run the container
 
 ```console
 # sudo emerge app-emulation/docker app-emulation/docker-compose
