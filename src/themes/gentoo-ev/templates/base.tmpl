@@ -7,6 +7,9 @@ ${base.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
+%if permalink == '/' and mastodon_uri:
+    <link rel="me" href="${mastodon_uri}" />
+%endif
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>

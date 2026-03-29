@@ -1478,7 +1478,8 @@ WARN_ABOUT_TAG_METADATA = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-    "logo_text": "gentoo"
+    "logo_text": "gentoo",
+    "mastodon_uri": "https://fosstodon.org/@Gentoo_eV"
 }
 
 # Add functions here and they will be called with template
