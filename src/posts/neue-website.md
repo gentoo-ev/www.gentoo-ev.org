@@ -24,4 +24,4 @@ einheitlicher Technik zusammengeführt.
 
 Wir freuen uns über Anregungen, Verbesserungsvorschläge und Ideen für
 weitere Inhalte, per [E-Mail](mailto:www@gentoo-ev.org) oder auch
-gerne über [GitHub](https://github.com/gentoo-ev/www.gentoo-ev.org).
+gerne über [Codeberg](https://codeberg.org/gentoo-ev/www.gentoo-ev.org).
