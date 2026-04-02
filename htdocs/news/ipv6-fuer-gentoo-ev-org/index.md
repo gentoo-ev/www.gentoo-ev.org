@@ -10,11 +10,8 @@
 -->
 
 Die Webseiten des Vereins sind jetzt auch über IPv6 abrufbar.
-
 Dies wird durch den neuen virtuellen Server „lemon“ in Frankfurt am Main
-ermöglicht, der den bisherigen Server „kiwi“ ersetzen soll.
-Der Server läuft derzeit im Testbetrieb und ist über
-[wwwtest.gentoo-ev.org](https://wwwtest.gentoo-ev.org/) erreichbar.
+ermöglicht, der den bisherigen Server „kiwi“ ersetzt.
 
 Der Vorstand freut sich über – positive oder negative – Rückmeldungen
 per [E-Mail](mailto:www@gentoo-ev.org) oder auch gerne auf
