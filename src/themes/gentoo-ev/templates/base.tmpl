@@ -39,7 +39,9 @@ ${template_hooks['extra_head']()}
             % endif
             </a>
         </div><!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+        ## Removed aria-expanded="false" from navbar-collapse because it
+        ## is invalid here; it belongs on the toggle button (see above)
+        <div class="collapse navbar-collapse" id="bs-navbar">
             <ul class="nav navbar-nav">
                 ${base.html_navigation_links()}
                 ${template_hooks['menu']()}
