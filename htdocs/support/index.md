@@ -72,3 +72,13 @@ Anleitung beschrieben (siehe unten):
 Archive der Listen gibt es auf archives.gentoo.org von der
 [deutschen Liste](https://archives.gentoo.org/gentoo-user-de/) und der
 [englischen](https://archives.gentoo.org/gentoo-user/).
+
+XMPP
+====
+Für den direkten Austausch können Sie unsere Chat-Räume über XMPP (Jabber)
+nutzen. Beitreten können Sie mit Gajim oder einem beliebigen anderen
+XMPP-Client.
+
+[{{% icon comments-o %}} deutschsprachiger Chat](xmpp:gentoo-de@conference.jabb3r.org?join){.list-group-item .list-group-item-action}
+[{{% icon comments-o %}} englischsprachiger Chat](xmpp:gentoo@conference.jabb3r.org?join){.list-group-item .list-group-item-action}
+{.list-group .lead}
