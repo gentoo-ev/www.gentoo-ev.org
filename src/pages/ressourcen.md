@@ -25,6 +25,15 @@ Diskussionen rund um das Vereinsleben betreffende Dinge
 * [Ausführliche Anleitung](https://www.gentoo.org/get-involved/mailing-lists/instructions.html)
   (auf Englisch)
 
+Archiv
+------
+Ehemalige Listen (2010–2023, Mailman&nbsp;2):
+
+* [announce](https://lists.gentoo-ev.org/archives/announce/) –
+  Ankündigungen des Fördervereins Gentoo e.&nbsp;V.
+* discussion – Diskussionsliste (privat)
+* Mitglieder – Informationen für Vereinsmitglieder (privat)
+
 
 Rsync-Mirror
 ============
