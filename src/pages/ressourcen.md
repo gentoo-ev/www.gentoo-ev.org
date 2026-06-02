@@ -56,4 +56,6 @@ Logos finden sich auf der Gentoo-Hauptseite unter
 Das Logo des Förderverein&nbsp;Gentoo&nbsp;e.V. ist auf Anfrage bei
 <www@gentoo-ev.org> erhältlich.
 
-Wir bitten, die Nutzungsbedingungen der Marke zu beachten.
+Wir bitten, die
+[Nutzungsbedingungen der Marke](/downloads/Nutzungsbestimmungen.pdf)
+zu beachten.
