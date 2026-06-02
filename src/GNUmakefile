@@ -14,7 +14,9 @@ files/images/qrcode-spende.png: qrcode-spende.txt
 
 .PHONY: clean
 clean:
-	$(MAKE) -C .. clean
+	rm -rf __pycache__
+	rm -rf cache
+	rm -f .doit.db
 
 .PHONY: sync
 sync:

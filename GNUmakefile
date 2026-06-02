@@ -9,19 +9,16 @@ all:
 
 .PHONY: clean
 clean:
-	rm -rf src/__pycache__
-	rm -rf src/cache
-	rm -f src/.doit.db
-	git checkout HEAD -- $(GENERATED)
+	$(MAKE) -C src clean
 
 .PHONY: require-clean-git
 require-clean-git:
-	git diff --quiet
-	git diff --cached --quiet
+	git diff --quiet -- $(addprefix ':(exclude)',$(GENERATED))
+	git diff --cached --quiet -- $(addprefix ':(exclude)',$(GENERATED))
 
 .PHONY: sync
 sync:
-	$(MAKE) clean require-clean-git all
+	$(MAKE) require-clean-git all
 	git add -- $(GENERATED)
 	git commit \
 		-m 'Sync generated files ("make sync")'
