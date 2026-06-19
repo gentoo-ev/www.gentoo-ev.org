@@ -972,6 +972,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
+    ("icon", "/images/gentoo-signet.svg", "any"),
     ("icon", "/favicon.ico", "16x16 32x32 48x48"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 )
