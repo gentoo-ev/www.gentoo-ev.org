@@ -1,3 +1,4 @@
 /cache/
 /.doit.db
 /conf.pyc
+/plugins/__init__.py

@@ -17,6 +17,7 @@ clean:
 	rm -rf __pycache__
 	rm -rf cache
 	rm -f .doit.db
+	rm -f plugins/__init__.py
 
 .PHONY: sync
 sync:
