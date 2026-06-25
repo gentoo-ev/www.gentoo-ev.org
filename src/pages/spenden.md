@@ -11,6 +11,7 @@
 
 Spenden an den Förderverein Gentoo e.V.
 =======================================
+
 Der Förderverein Gentoo vertritt das Gentoo-Projekt in Deutschland
 und Europa und fördert die Weiterentwicklung und Verbreitung der
 Gentoo-Linux-Distribution. Er organisiert öffentliche Treffen und
@@ -39,6 +40,7 @@ Paypal
 
 Spenden an Software in the Public Interest
 ==========================================
+
 Die Gentoo-Distribution erhält Spenden über *Software in the Public
 Interest* (SPI), eine Non-Profit-Corporation in den USA, die als
 finanzieller Träger für Open-Source-Software- und Hardware-Projekte

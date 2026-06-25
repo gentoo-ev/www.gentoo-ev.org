@@ -21,6 +21,7 @@ freiwillige, ehrenamtliche Hilfestellungen ohne Gewähr handelt.
 
 Live-Chat im IRC
 ================
+
 Wenn's schnell gehen muss, besuchen Sie unsere Kanäle im Internet Relay
 Chat!
 
@@ -45,6 +46,7 @@ Informieren Sie sich bitte ggf. vorher, ob und wo Sie plaudern können.
 
 Die Gentoo-Foren
 ================
+
 Eine feste Größe der Linux-Dokumentation und -Unterstützung seit Jahren.
 
 [{{% icon pencil-square %}} deutschsprachige Foren](https://forums.gentoo.org/viewforum-f-28.html){.list-group-item .list-group-item-action}
@@ -59,6 +61,7 @@ Hard- und Software, um kompetent helfen zu können.
 
 Mailing-Listen
 ==============
+
 Klassisch im Mail-Client gibt es Hilfe auf unseren Mailinglisten.
 
 Um hier teilzunehmen, müssen Sie sich anmelden. Wie das geht, ist in der
@@ -75,6 +78,7 @@ Archive der Listen gibt es auf archives.gentoo.org von der
 
 XMPP
 ====
+
 Für den direkten Austausch können Sie unsere Chat-Räume über XMPP (Jabber)
 nutzen. Beitreten können Sie mit Gajim oder einem beliebigen anderen
 XMPP-Client.
