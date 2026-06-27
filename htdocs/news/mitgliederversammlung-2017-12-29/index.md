@@ -1,7 +1,7 @@
 <!--
 .. title: Mitgliederversammlung 2017-12-29
 .. slug: mitgliederversammlung-2017-12-29
-.. date: 2017-12-25 16:27:00 UTC+02:00
+.. date: 2017-12-25 16:27:13 UTC+00:00
 .. tags: 
 .. category: 
 .. link: 

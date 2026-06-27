@@ -11,6 +11,7 @@
 
 Gentoo zum Ausprobieren: Die Gentoo-LiveDVD
 ===========================================
+
 [{{% icon download %}} amd64 Minimal Installation CD](https://distfiles.gentoo.org/releases/amd64/autobuilds/current-install-amd64-minimal/){.btn .btn-primary .btn-block}
 [{{% icon download %}} amd64 LiveGUI USB Image](https://distfiles.gentoo.org/releases/amd64/autobuilds/current-livegui-amd64/){.btn .btn-primary .btn-block}
 {.pull-right style="min-width:20em; margin-left:3em;"}
@@ -27,6 +28,7 @@ Wir stellen zwei Versionen für *amd64* zur Verfügung:
 
 Gentoo zum Installieren: *Stages* und *Minimal LiveCD*
 ======================================================
+
 Wenn Gentoo auf die Platte (oder SSD) soll, dann werden weitere Dateien
 benötigt.
 

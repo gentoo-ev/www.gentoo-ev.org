@@ -24,6 +24,7 @@ und verweisen stattdessen auf das Wiki.
 
 Das Handbuch {:#handbuch}
 =========================
+
 Herzstück der Dokumentation der Gentoo-Distribution ist das **Handbuch.**
 
 Es beinhaltet mehrere Abschnitte:
@@ -50,6 +51,7 @@ freuen.
 
 Das Gentoo-Wiki
 ===============
+
 Alle weiteren Themen werden auf den (anderen) Seiten des Gentoo-Wikis
 beschrieben.
 
