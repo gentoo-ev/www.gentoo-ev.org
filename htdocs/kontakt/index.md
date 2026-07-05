@@ -11,6 +11,7 @@
 
 E-Mail
 ======
+
 Mit Fragen, Anregungen und Hinweisen können Sie sich gerne an uns via
 E-Mail an <www@gentoo-ev.org> wenden.  
 Ebenso ist dies die Kontaktadresse für technische Probleme
@@ -18,10 +19,12 @@ Ebenso ist dies die Kontaktadresse für technische Probleme
 
 Mastodon
 ========
+
 [@Gentoo_eV@fosstodon.org](https://fosstodon.org/@Gentoo_eV){rel="me"}
 
 Impressum {:#impressum}
 =======================
+
 > **Förderverein Gentoo e. V.**  
 > Alfred-Mumbächer-Str. 67a  
 > 55128 Mainz
@@ -32,11 +35,12 @@ Impressum {:#impressum}
 >
 > **Vereinsregistereintrag:**  
 > Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
-> Amtsgerichts Oberhausen unter der Vereins-Nr. VR&nbsp;1621.  
+> Amtsgerichts Oberhausen (Rhld.) unter der Vereins-Nr. VR&nbsp;1621.  
 > Seit 1. April 2021 eingetragen beim **Amtsgericht Mainz**
 > unter der Vereins-Nr. **VR&nbsp;42055**.
 
 Bankverbindung {:#bankverbindung}
 =================================
+
 > **IBAN:** DE18 3704 0044 0373 2666 00  
 > **BIC:** COBADEFFXXX (Commerzbank Köln)
