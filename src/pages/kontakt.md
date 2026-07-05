@@ -35,7 +35,7 @@ Impressum {:#impressum}
 >
 > **Vereinsregistereintrag:**  
 > Erstmalig eingetragen am 11. Mai 2004 im Vereinsregister des
-> Amtsgerichts Oberhausen unter der Vereins-Nr. VR&nbsp;1621.  
+> Amtsgerichts Oberhausen (Rhld.) unter der Vereins-Nr. VR&nbsp;1621.  
 > Seit 1. April 2021 eingetragen beim **Amtsgericht Mainz**
 > unter der Vereins-Nr. **VR&nbsp;42055**.
 
