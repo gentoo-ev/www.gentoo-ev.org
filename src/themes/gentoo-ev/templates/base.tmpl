@@ -95,6 +95,9 @@ ${base.late_load_js()}
     <!-- end fancy dates -->
     </%doc>
     <%block name="extra_js"></%block>
+    <%doc>
+    ## Commented out: We don't need baguetteBox, and the inline JS
+    ## doesn't play well with Content-Security-Policy
     <script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
@@ -102,6 +105,7 @@ ${base.late_load_js()}
             return element.getElementsByTagName('img')[0].alt;
     }});
     </script>
+    </%doc>
 ${body_end}
 ${template_hooks['body_end']()}
 </body>
